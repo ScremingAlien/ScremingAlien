@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/ScremingAlien/ScremingAlien/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:ScremingAlien?theme=booru-qualityhentais&padding=7&scale=1.5&align=top&pixelated=0&darkmode=auto"  />
+</div>
+
+###
