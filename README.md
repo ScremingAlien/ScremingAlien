@@ -4,8 +4,6 @@
 
 ###
 
-<h3 align="left">comming very soon to Visit Earth</h3>
-
 ###
 
  
