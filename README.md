@@ -1,6 +1,6 @@
  
  
-<h1 align="left">Hy It's ScremingAlien</h1>
+<h1 align="left">Hy It's Suthar Dhiraj</h1>
 
 ###
 
